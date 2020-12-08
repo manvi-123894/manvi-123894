@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm a 3rd year CSE student. I am passionate about Web-development.
-I’m currently learning Javascript.
+I know HTML, CSS , Javascript and Bootstrap.
+I'm currently learning React.
 
 My LinkedIn Profile - https://www.linkedin.com/in/manvi-3b838b1b5
